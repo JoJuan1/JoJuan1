@@ -1,8 +1,26 @@
 ## Hi there 👋
 
-<!--
-**JoJuan1/JoJuan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>My name is JoJuan! <br/><a href="https://github.com/jojuan1">IT Project Specialist</a>, <a href="https://www.linkedin.com/in/jojuan1/">Cybersecurity Grad & IT Professional</a></h1>
 
+<h2>👨‍💻 Home Lab Projects:</h2>
+
+- <b>Active Directory(Windows)</b>
+  
+- <b>Splunk/SIEM</b>
+  
+- <b>SSH/SCP</b>
+  
+- Digital Forensics</b>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoJuanH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/jojuanh
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
