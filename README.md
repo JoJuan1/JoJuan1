@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>My name is JoJuan! <br/><a href="https://github.com/jojuan1">IT Project Specialist</a>, <a href="https://www.linkedin.com/in/jojuan1/">Cybersecurity Grad & IT Professional</a></h1>
+<h1>My name is JoJuan! <br/><a href="https://github.com/jojuan1">IT Project Specialist</a>, <a href="https://www.linkedin.com/in/jojuanh/">Cybersecurity Grad & IT Professional</a></h1>
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
