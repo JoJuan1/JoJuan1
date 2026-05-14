@@ -2,15 +2,8 @@
 
 <h1>My name is JoJuan! I create  <br/><a href="https://github.com/jojuan1">Home Lab Projects</a>, and currently am a <a href="https://www.linkedin.com/in/jojuanh/">Cybersecurity Grad & IT Professional</a></h1>
 
-<h2>👨‍💻 Here are my Home Lab Projects:</h2>
+<h2>👨‍💻 Home Lab Projects coming soon:</h2>
 
-- <b>Active Directory & Windows Administration</b>
-  
-- <b>Splunk/SIEM</b>
-  
-- <b>SSH/SCP</b>
-  
-- Digital Forensics</b>
 
 
 <h2> 🤳 Connect with me:</h2>
